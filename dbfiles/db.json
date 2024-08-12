@@ -1,0 +1,67 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "name": "Pragmatic Programmer",
+      "url": "https://m.media-amazon.com/images/I/71Nxk9VhSTL._SY425_.jpg",
+      "author": "David Thomas",
+      "description": "One of the most significant books in my life.” –Obie Fernandez, Author, The Rails Way\n\n“Twenty years ago, the first edition of The Pragmatic Programmer completely changed the trajectory of my career. This new edition could do the same for yours.” –Mike Cohn, Author of Succeeding with Agile , Agile Estimating and Planning , and User Stories Applied\n\n“. . . filled with practical advice, both technical and professional, that will serve you and your projects well for years to come.” –Andrea Goulet, CEO, Corgibytes, Founder, LegacyCode.Rocks\n\n“. . . lightning does strike twice, and this book is proof.” –VM (Vicky) Brasseur, Director of Open Source Strategy, Juniper Networks\n\nThe Pragmatic Programmer is one of those rare tech books you’ll read, re-read, and read again over the years. Whether you’re new to the field or an experienced practitioner, you’ll come away with fresh insights each and every time.\n\nDave Thomas and Andy Hunt wrote the first edition of this influential book in 1999 to help their clients create better software and rediscover the joy of coding. These lessons have helped a generation of programmers examine the very essence of software development, independent of any particular language, framework, or methodology, and the Pragmatic philosophy has spawned hundreds of books, screencasts, and audio books, as well as thousands of careers and success stories.\n\nNow, twenty years later, this new edition re-examines what it means to be a modern programmer. Topics range from personal responsibility and career development to architectural techniques for keeping your code flexible and easy to adapt and reuse. Read this book, and you’ll learn how to:\nFight software rot\nLearn continuously\nAvoid the trap of duplicating knowledge\nWrite flexible, dynamic, and adaptable code\nHarness the power of basic tools\nAvoid programming by coincidence      \nLearn real requirements      \nSolve the underlying problems of concurrent code      \nGuard against security vulnerabilities      \nBuild teams of Pragmatic Programmers      \nTake responsibility for your work and career      \nTest ruthlessly and effectively, including property-based testing      \nImplement the Pragmatic Starter Kit      \nDelight your users      \nWritten as a series of self-contained sections and filled with classic and fresh anecdotes, thoughtful examples, and interesting analogies, The Pragmatic Programmer illustrates the best approaches and major pitfalls of many different aspects of software development. Whether you’re a new coder, an experienced programmer, or a manager responsible for software projects, use these lessons daily, and you’ll quickly see improvements in personal productivity, accuracy, and job satisfaction. You’ll learn skills and develop habits and attitudes that form the foundation for long-term success in your career.\nYou’ll become a Pragmatic Programmer.\n\nRegister your book for convenient access to downloads, updates, and/or corrections as they become available. See inside book for details.",
+      "rating": 4,
+      "price": 0.0001
+    },
+    {
+      "id": 2,
+      "name": "Leading Effective Engineering Teams",
+      "description": "In this insightful and comprehensive guide, Addy Osmani shares more than a decade of experience working on the Chrome team at Google, uncovering secrets to engineering effectiveness, efficiency, and team success. Engineers and engineering leaders looking to scale their effectiveness and drive transformative results within their teams and organizations will learn the essential principles, tips, and frameworks for building highly effective engineering teams.",
+      "url": "https://m.media-amazon.com/images/I/71EpUTENpGL._SY425_.jpg",
+      "author": "Addy Osmani",
+      "rating": 3.5,
+      "price": 0.0002
+    },
+    {
+      "id": 3,
+      "name": "Attack on Titan Vol. 1",
+      "description": "In this post-apocalytpic sci-fi story, humanity has been devastated by the bizarre, giant humanoids known as the Titans. Little is known about where they came from or why they are bent on consuming mankind. Seemingly unintelligent, they have roamed the world for years, killing everyone they see. For the past century, what's left of man has hidden in a giant, three-walled city. People believe their 100-meter-high walls will protect them from the Titans, but the sudden appearance of an immense Titan is about to change everything. Winner of the 2011 Kodansha Manga Award (Shonen) and nominated for the prestigious Osamu Tezuka Cultural Prize for 2012.",
+      "url": "https://m.media-amazon.com/images/I/91F-m3Zm1xL._SY425_.jpg",
+      "author": "Hajime Isayama",
+      "rating": 5,
+      "price": 12400
+    },
+    {
+      "id": 4,
+      "name": "Attack on Titan Vol. 6",
+      "description": "TITAN ON THE HUNT On the way to Eren's home, deep in Titan territory, the Survey Corps ranks are broken by a charge led by a female Titan! But this Abnormal is different - she kills not to eat but to protect herself, and she seems to be looking for someone. Armin comes to a shocking conclusion!",
+      "url": "https://m.media-amazon.com/images/I/91PThw6z2xL._SY425_.jpg",
+      "author": "Hajime Isayama",
+      "rating": 5,
+      "price": 13400
+    },
+    {
+      "id": 5,
+      "name": "Attack on Titan Vol. 9",
+      "url": "https://m.media-amazon.com/images/I/91Yt+Lqrd-L._SY425_.jpg",
+      "author": "Hajime Isayama",
+      "description": "HUMANITY'S WORST NIGHTMARE Eren is still resting from his brutal fight with the female Titan, when word reaches the interior that the impossible has happened: Wall Rose itself has been breached, and Titans are pouring through the gap! The emergency casts new urgency over Armin and Hange's questions about how the walls were built, and what humanity can do to restore them... ? ? PRAISE FOR THE HIT ANIME \"A visceral and fantastically intense action/horror story.\" - Anime News Network ? \"Japan's equivalent of The Walking Dead.\" - io9",
+      "rating": 5,
+      "price": 14400
+    },
+    {
+      "id": 6,
+      "name": "Attack on Titan: No Regrets Vol. 1",
+      "description": "THE THIEF AND THE SOLDIER The young Erwin Smith is a rising star in the Survey Corps, humanity's only hope of defeating the man-eating monsters known as Titans. Ruthless and dispassionate, Erwin's mind is devoted to strategies and intrigue. But beneath Erwin's feet is another world, the Underground, where humans are born and die surrounded by the garbage the Capital throws away. Here, the criminal Levi survives on his wits and agility. But when these two ambitious men cross paths, who will prove himself stronger? The long-awaited origin story of Levi and Erwin, two of Attack on Titan's most beloved characters!",
+      "url": "https://m.media-amazon.com/images/I/91OOY89CwlL._SY425_.jpg",
+      "author": "Hajime Isayama",
+      "rating": 5,
+      "price": 999999
+    },
+    {
+      "id": 7,
+      "name": "Erased, Vol. 1 ",
+      "description": "Twenty-nine-year-old Satoru Fujinuma is floundering through life. Amid his daily drudgery, he finds himself in the grip of an incredible, inexplicable, and uncontrollable phenomenon that rewinds time, a condition that seems to only make his drab life worse. But then, one day, everything changes. A terrible incident forever changes Satoru's life as he knows it...and with it, comes a \"Revival\" that sends Satoru eighteen years into the past!\n\nIn the body of his boyhood self, Satoru encounters sights he never imagined he would see again--the smile of his mother, alive and well, his old friends, and Kayo Hinazuki, the girl who was kidnapped and murdered when he was a boy the first time around. To return to the present and prevent the tragedy that brought him back to his childhood in the first place, Satoru begins plotting a way to change Hinazuki's fate...But up against the clock and a faceless evil, does eleven-year-old Satoru even stand a chance?",
+      "url": "https://m.media-amazon.com/images/I/31Xpmnj8gKL._SY445_SX342_.jpg",
+      "author": "Kei Sanbe",
+      "rating": 4,
+      "price": 99
+    }
+  ]
+}
